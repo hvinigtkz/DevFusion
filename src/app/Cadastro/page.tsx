@@ -8,7 +8,7 @@ export default function Cadastro() {
             <div className="absolute inset-0 flex justify-center items-center">
                 <form
                     id="cadastro-form"
-                    className="bg-transparent p-8 rounded-lg shadow-lg max-w-sm w-full"
+                    className="bg-white bg-opacity-10 p-8 rounded-2xl shadow-lg max-w-sm w-full"
                 >
                     <h2 className="text-3xl font-bold text-white mb-6 text-center">Cadastro</h2>
                     <div className="mb-4 relative">
